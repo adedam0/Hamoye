@@ -1,0 +1,384 @@
+ingredient,category
+Almond,Plant
+Angelica,Plant
+Anise,Plant
+Anise_seed,Plant
+Apple,Fruit
+Apple_brandy,Alcohol
+Apricot,Fruit
+Armagnac,Alcohol
+Artemisia,Plant
+Artichoke,Vegetable
+Asparagus,Vegetable
+Avocado,Fruit
+Bacon,Meat
+Baked_potato,Others
+Balm,Plant
+Banana,Fruit
+Barley,Grain
+Bartlett_pear,Plant
+Basil,Plant
+Bay,Plant
+Bean,Legume
+Beech,Plant
+Beef,Meat
+Beef_broth,Others
+Beef_liver,Meat
+Beer,Alcohol
+Beet,Plant
+Bell_pepper,Spice
+Bergamot,Plant
+Berry,Fruit
+Bitter_orange,Plant
+Black_bean,Plant
+Black_currant,Plant
+Black_mustard_seed_oil,Edible oil
+Black_pepper,Spice
+Black_raspberry,Plant
+Black_sesame_seed,Plant
+Black_tea,Beverage
+Blackberry,Fruit
+Blackberry_brandy,Alcohol
+Blue_cheese,Dairy product
+Blueberry,Plant
+Bone_oil,Edible oil
+Bourbon_whiskey,Alcohol
+Brandy,Alcohol
+Brassica,Plant
+Bread,Grain
+Broccoli,Plant
+Brown_rice,Grain
+Brussels_sprout,Vegetable
+Buckwheat,Plant
+Butter,Spread
+Buttermilk,Dairy product
+Cabbage,Vegetable
+Cabernet_sauvignon_wine,Alcohol
+Cacao,Plant
+Camembert_cheese,Dairy product
+Cane_molasses,Condiment
+Caraway,Plant
+Cardamom,Spice
+Carnation,Plant
+Carob,Plant
+Carrot,Fruit
+Cashew,Nut
+Cassava,Plant
+Catfish,Fish
+Cauliflower,Vegetable
+Caviar,Spread
+Cayenne,Spice
+Celery,Plant
+Celery_oil,Edible oil
+Cereal,Grain
+Chamomile,Plant
+Champagne_wine,Alcohol
+Chayote,Plant
+Cheddar_cheese,Dairy product
+Cheese,Dairy product
+Cherry,Fruit
+Cherry_brandy,Alcohol
+Chervil,Plant
+Chicken,Meat
+Chicken_broth,Others
+Chicken_liver,Animal produce
+Chickpea,Legume
+Chicory,Plant
+Chinese_cabbage,Vegetable
+Chive,Plant
+Cider,Beverage
+Cilantro,Plant
+Cinnamon,Spice
+Citrus,Plant
+Citrus_peel,Fruit
+Clam,Animal
+Clove,Plant
+Cocoa,Fruit
+Coconut,Fruit
+Coconut_oil,Edible oil
+Cod,Fish
+Coffee,Beverage
+Cognac,Alcohol
+Concord_grape,Fruit
+Condiment,Condiment
+Coriander,Plant
+Corn,Grain
+Corn_flake,Grain
+Corn_grit,Others
+Cottage_cheese,Dairy product
+Crab,Animal
+Cranberry,Plant
+Cream,Dairy product
+Cream_cheese,Dairy product
+Cucumber,Plant
+Cumin,Plant
+Cured_pork,Meat
+Currant,Plant
+Date,Fruit
+Dill,Plant
+Durian,Plant
+Eel,Fish
+Egg,Animal produce
+Egg_noodle,Others
+Elderberry,Plant
+Emmental_cheese,Dairy product
+Endive,Vegetable
+Enokidake,Fungus
+Fennel,Plant
+Fenugreek,Plant
+Feta_cheese,Dairy product
+Fig,Plant
+Fish,Fish
+Flower,Plant
+Frankfurter,Meat
+Fruit,Fruit
+Galanga,Spice
+Gardenia,Plant
+Garlic,Plant
+Gelatin,Condiment
+Geranium,Plant
+Gin,Alcohol
+Ginger,Spice
+Goat_cheese,Dairy product
+Grape,Fruit
+Grape_brandy,Alcohol
+Grape_juice,Fruit
+Grapefruit,Fruit
+Green_bell_pepper,Plant
+Green_tea,Beverage
+Gruyere_cheese,Dairy product
+Guava,Fruit
+Haddock,Fish
+Ham,Meat
+Hazelnut,Nut
+Herring,Fish
+Holy_basil,Plant
+Honey,Condiment
+Hop,Plant
+Horseradish,Plant
+Huckleberry,Plant
+Jamaican_rum,Alcohol
+Japanese_plum,Fruit
+Jasmine,Plant
+Jasmine_tea,Beverage
+Juniper_berry,Fruit
+Kaffir_lime,Plant
+Kale,Plant
+Katsuobushi,Others
+Kelp,Plant
+Kidney_bean,Legume
+Kiwi,Fruit
+Kohlrabi,Vegetable
+Kumquat,Plant
+Lamb,Meat
+Lard,Animal produce
+Laurel,Plant
+Lavender,Plant
+Leaf,Plant
+Leek,Plant
+Lemon,Fruit
+Lemon_juice,Condiment
+Lemon_peel,Fruit
+Lemongrass,Plant
+Lentil,Legume
+Lettuce,Vegetable
+Licorice,Plant
+Lilac_flower_oil,Edible oil
+Lima_bean,Legume
+Lime,Fruit
+Lime_juice,Fruit
+Lime_peel_oil,Edible oil
+Lingonberry,Plant
+Litchi,Fruit
+Liver,Animal produce
+Lobster,Animal
+Long_pepper,Plant
+Lovage,Plant
+Macadamia_nut,Nut
+Macaroni,Grain
+Mace,Spice
+Mackerel,Fish
+Malt,Grain
+Mandarin,Fruit
+Mandarin_peel,Fruit
+Mango,Fruit
+Maple_syrup,Condiment
+Marjoram,Plant
+Mate,Beverage
+Matsutake,Fungus
+Meat,Meat
+Melon,Plant
+Milk,Dairy product
+Milk_fat,Dairy product
+Mint,Plant
+Mozzarella_cheese,Dairy product
+Mung_bean,Legume
+Munster_cheese,Dairy product
+Muscat_grape,Fruit
+Mushroom,Fungus
+Mussel,Animal
+Mustard,Condiment
+Mutton,Meat
+Nectarine,Fruit
+Nira,Vegetable
+Nut,Fruit
+Nutmeg,Spice
+Oat,Plant
+Oatmeal,Grain
+Octopus,Animal
+Okra,Plant
+Olive,Plant
+Olive_oil,Edible oil
+Onion,Vegetable
+Orange,Fruit
+Orange_flower,Plant
+Orange_juice,Fruit
+Orange_peel,Fruit
+Oregano,Plant
+Ouzo,Alcohol
+Oyster,Animal
+Palm,Plant
+Papaya,Plant
+Parmesan_cheese,Dairy product
+Parsley,Plant
+Parsnip,Vegetable
+Passion_fruit,Fruit
+Pea,Vegetable
+Peach,Plant
+Peanut,Legume
+Peanut_butter,Spread
+Peanut_oil,Edible oil
+Pear,Plant
+Pear_brandy,Alcohol
+Pecan,Plant
+Pelargonium,Plant
+Pepper,Spice
+Peppermint,Plant
+Peppermint_oil,Edible oil
+Pimenta,Plant
+Pimento,Spice
+Pineapple,Fruit
+Pistachio,Fruit
+Plum,Fruit
+Popcorn,Grain
+Porcini,Fungus
+Pork,Meat
+Pork_liver,Animal produce
+Pork_sausage,Meat
+Port_wine,Alcohol
+Potato,Others
+Potato_chip,Others
+Prawn,Animal
+Prickly_pear,Plant
+Provolone_cheese,Dairy product
+Pumpkin,Fruit
+Quince,Fruit
+Radish,Vegetable
+Raisin,Fruit
+Rapeseed,Plant
+Raspberry,Fruit
+Raw_beef,Meat
+Red_algae,Plant
+Red_bean,Legume
+Red_kidney_bean,Legume
+Red_wine,Alcohol
+Rhubarb,Vegetable
+Rice,Grain
+Roasted_almond,Plant
+Roasted_beef,Meat
+Roasted_hazelnut,Fruit
+Roasted_meat,Meat
+Roasted_nut,Fruit
+Roasted_peanut,Legume
+Roasted_pecan,Plant
+Roasted_pork,Meat
+Roasted_sesame_seed,Plant
+Romano_cheese,Dairy product
+Root,Plant
+Roquefort_cheese,Dairy product
+Rose,Plant
+Rosemary,Plant
+Rum,Alcohol
+Rutabaga,Root vegetables
+Rye_bread,Grain
+Rye_flour,Others
+Saffron,Spice
+Sage,Plant
+Sake,Alcohol
+Salmon,Fish
+Salmon_roe,Animal produce
+Sassafras,Plant
+Sauerkraut,Vegetable
+Savory,Others
+Scallion,Vegetable
+Scallop,Animal
+Sea_algae,Plant
+Seaweed,Plant
+Seed,Plant
+Sesame_oil,Edible oil
+Sesame_seed,Plant
+Shallot,Plant
+Sheep_cheese,Dairy product
+Shellfish,Animal
+Sherry,Alcohol
+Shiitake,Fungus
+Shrimp,Animal
+Smoke,Others
+Smoked_fish,Fish
+Smoked_salmon,Fish
+Smoked_sausage,Meat
+Sour_cherry,Plant
+Sour_milk,Dairy product
+Soy_sauce,Condiment
+Soybean,Plant
+Soybean_oil,Edible oil
+Spearmint,Plant
+Squash,Plant
+Squid,Animal
+Star_anise,Plant
+Starch,Grain
+Strawberry,Fruit
+Strawberry_jam,Spread
+Strawberry_juice,Fruit
+Sturgeon_caviar,Fish
+Sumac,Plant
+Sunflower_oil,Edible oil
+Sweet_potato,Root vegetables
+Swiss_cheese,Dairy product
+Tabasco_pepper,Plant
+Tamarind,Plant
+Tangerine,Fruit
+Tarragon,Plant
+Tea,Beverage
+Tequila,Alcohol
+Thai_pepper,Plant
+Thyme,Plant
+Tomato,Fruit
+Tomato_juice,Fruit
+Truffle,Fungus
+Tuna,Fish
+Turkey,Meat
+Turmeric,Plant
+Turnip,Root vegetables
+Vanilla,Spice
+Veal,Meat
+Vegetable,Vegetable
+Vegetable_oil,Edible oil
+Vinegar,Condiment
+Violet,Plant
+Walnut,Nut
+Wasabi,Plant
+Watercress,Vegetable
+Watermelon,Fruit
+Wheat,Grain
+Wheat_bread,Grain
+Whiskey,Alcohol
+White_bread,Grain
+White_wine,Alcohol
+Whole_grain_wheat_flour,Grain
+Wine,Alcohol
+Wood,Others
+Yam,Plant
+Yeast,Fungus
+Yogurt,Dairy product
+Zucchini,Fruit
